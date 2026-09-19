@@ -29,7 +29,7 @@ $ conda activate Tab-semiSL
 Then, ensure that the path leads to the Tab-semiSL root directory and install requirements,
 
 ```shell
-$ cd Tab-semiSL-master
+$ cd Tab-semiSL
 $ pip install -r requirements.txt
 ```
 run main.py
