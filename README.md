@@ -1,6 +1,6 @@
 # Code for "Tab-semiSL: Tabular Data-Driven Semi-Supervised Learning to Identify Factors Associated with Immune-Related Adverse Events"
 
-Authors: Anonymous
+Authors: Ruhao Liu1, Suixue Wang, Hang Yu, Peng Li∗ and Qingchen Zhang∗
 
 This directory contains implementations of Tab-semiSL framework using MNIST dataset.
 
@@ -44,3 +44,9 @@ $ python main.py --iterations 10 --label_no 1000 --model_name xgboost
 --p_m 0.5 --alpha 2.0 --beta 0.1 --gamma 0.1 --label_data_rate 0.1 --datasets_name MNIST 
 ```
 
+## Contact
+Please send any questions or found bugs to Ruhao Liu [lrh@hainanu.edu.cn](mailto:lrh@hainanu.edu.cn).
+
+## Please consider citing the following reference:
+
+https://doi.org/10.24963/ijcai.2026/624
