@@ -44,7 +44,7 @@ $ python main.py --iterations 10 --label_no 1000 --model_name xgboost
 --p_m 0.5 --alpha 2.0 --beta 0.1 --gamma 0.1 --label_data_rate 0.1 --datasets_name MNIST 
 ```
 
-## Contact
+## Contact:
 Please send any questions or found bugs to Ruhao Liu [lrh@hainanu.edu.cn](mailto:lrh@hainanu.edu.cn).
 
 ## Please consider citing the following reference:
